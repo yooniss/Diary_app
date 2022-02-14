@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiaryAPp</string>
+    <string name="menu_insert">menu</string>
+    <string name="menu_delete">dekete</string>
+    <string name="body">body</string>
+    <string name="confirm">confirm</string>
+    <string name="title">title</string>
+</resources>
